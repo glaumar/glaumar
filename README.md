@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Glaumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaumar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=glaumar&sort=xp&theme=dark)
 ### Links  
 [![](https://img.shields.io/badge/Blog-21759B?logo=wordpress&logoColor=white)](https://blog.geekgo.tech/)
 [![](https://img.shields.io/badge/GoToSocial-6364FF?logo=mastodon&logoColor=white)](https://social.geekgo.tech/@glaumar)
