@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/GoToSocial-6364FF?logo=mastodon&logoColor=white)](https://social.geekgo.tech/@glaumar)
 [![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/misaka2501)
 [![](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white)](https://github.com/glaumar)
-[![](https://img.shields.io/badge/Paypal-003087?logo=paypal&logoColor=white)](https://paypal.me/misaka2501)
 
 
 
